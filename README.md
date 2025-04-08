@@ -55,7 +55,7 @@ L’analisi è stata svolta come esercizio personale per rafforzare competenze s
 
 ## 👤 Autore
 
-**[Il tuo nome o nickname]**  
+**[Stefano Moltedo]**  
 📎 LinkedIn: [link profilo]  
 💻 GitHub: [link al tuo repo]
 
