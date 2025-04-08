@@ -57,6 +57,6 @@ L’analisi è stata svolta come esercizio personale per rafforzare competenze s
 
 **[Stefano Moltedo]**  
 📎 LinkedIn: [www.linkedin.com/in/stefano-moltedo-9b2176336]  
-💻 GitHub: [link al tuo repo]
+💻 GitHub: [https://github.com/stefano1121/social-media-mental-health-analysis/tree/main]
 
 ---
